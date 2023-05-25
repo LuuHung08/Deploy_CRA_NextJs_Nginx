@@ -114,6 +114,8 @@ app.listen(PORT);
 
 - Tạo ứng dụng NextJs bằng
 
+Link vercel: https://next-review-zeta.vercel.app/
+
 ```bash
 
 npx create-react-app my-app
